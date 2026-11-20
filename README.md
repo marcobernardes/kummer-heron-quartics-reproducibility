@@ -52,7 +52,9 @@ For a stable scholarly citation, publish a GitHub release and archive that versi
 
 ## Reuse and license
 
-**License selection pending author approval.** Public visibility on GitHub does not by itself grant a license to copy, modify or redistribute the software. See `PUBLIC_RELEASE_CHECKLIST.md` before publication; until a license is chosen, default copyright restrictions apply. The exact sealed input archive and its historical information must remain unmodified.
+Python software: MIT License (`LICENSE`).
+
+Original documentation and research data: Creative Commons Attribution 4.0 International (`LICENSE_CONTENT.md`), subject to the stated rights and provenance restrictions.
 
 ## Scope and provenance
 
