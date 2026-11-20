@@ -1,0 +1,8 @@
+PUBLIC RELEASE HOLD — LICENSE MUST BE CHOSEN BY AUTHOR
+
+This package deliberately does not create a license grant for source code,
+documentation, or historical numerical data. A public GitHub repository without
+a license is viewable but does not make files freely reusable. Decide whether
+to apply MIT or BSD-3-Clause to newly created Python code, and whether CC BY
+4.0 is appropriate for prose/data. Ensure historical inputs may be licensed.
+No public GitHub or Zenodo release has been performed.
